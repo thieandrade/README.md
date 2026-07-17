@@ -1,0 +1,301 @@
+price,model_year,model,condition,cylinders,fuel,odometer,transmission,type,paint_color,is_4wd,date_posted,days_listed
+20937,2015,toyota corolla,fair,4,gas,58369,automatic,sedan,black,1,2019-12-13,14
+4640,2002,honda cr-v,salvage,6,hybrid,264951,automatic,SUV,grey,1,2019-11-29,26
+11066,2008,toyota corolla,like new,8,gas,178389,other,coupe,red,1,2019-07-14,12
+4675,1998,toyota corolla,good,3,gas,198461,automatic,van,black,,2019-11-18,107
+22685,2019,nissan altima,like new,8,diesel,151722,other,truck,grey,1,2019-08-21,36
+20803,2016,chevrolet equinox,salvage,6,diesel,37435,other,truck,,,2019-05-06,69
+23470,2019,ram 1500,like new,4,diesel,29327,other,coupe,blue,,2019-04-19,9
+14663,2015,jeep grand cherokee,salvage,4,electric,240570,manual,SUV,black,1,2019-10-15,32
+11330,2011,jeep grand cherokee,salvage,3,electric,258744,other,truck,red,1,2019-12-15,21
+5950,1995,ford focus,fair,6,diesel,60058,manual,sedan,grey,,2019-05-17,97
+21959,2018,toyota corolla,good,6,diesel,138091,manual,SUV,red,,2019-11-17,112
+15512,2019,ford focus,good,3,gas,278058,automatic,wagon,white,,2019-01-10,63
+2926,1997,ford focus,salvage,6,electric,254798,automatic,wagon,,,2019-12-04,17
+16644,2018,honda cr-v,excellent,6,diesel,105461,automatic,sedan,silver,1,2019-11-29,86
+500,1995,nissan altima,excellent,3,diesel,290414,manual,van,blue,,2019-04-28,8
+4268,2001,honda cr-v,fair,4,diesel,282713,automatic,sedan,grey,,2019-10-20,113
+9535,2008,nissan altima,excellent,6,diesel,185753,automatic,SUV,red,1,2019-11-27,84
+15872,2009,ford escape,excellent,5,gas,73495,other,wagon,,1,2019-05-08,60
+8642,1995,honda civic,fair,4,gas,48896,manual,truck,,,2019-04-20,62
+11512,2009,chevrolet silverado 1500,like new,5,diesel,149552,automatic,wagon,grey,,2019-10-12,94
+18435,2012,toyota camry,good,6,gas,31959,other,sedan,grey,,2019-09-29,118
+5535,2002,toyota camry,fair,3,hybrid,211694,manual,SUV,grey,,2019-05-07,73
+18065,2017,ford f-150,fair,6,gas,164722,automatic,wagon,black,,2019-06-11,59
+16031,2011,honda civic,fair,4,hybrid,139041,other,van,red,,2019-02-05,113
+500,1995,ford focus,salvage,4,diesel,290771,other,truck,black,1,2019-02-24,114
+20156,2016,ford focus,excellent,6,gas,138403,manual,SUV,grey,,2019-01-27,116
+10454,2003,honda civic,salvage,5,gas,84715,manual,wagon,red,,2019-02-08,15
+1643,1999,chevrolet silverado 1500,excellent,4,hybrid,225332,other,coupe,red,1,2019-01-21,47
+22154,2018,ram 1500,like new,4,electric,,other,van,,,2019-04-01,104
+7708,2002,chevrolet silverado 1500,good,4,electric,139883,manual,truck,,,2019-07-15,14
+9866,2002,chevrolet equinox,salvage,4,hybrid,116876,automatic,sedan,silver,1,2019-05-23,9
+6970,2000,toyota corolla,salvage,3,gas,139180,manual,wagon,black,1,2019-06-26,56
+12380,2003,chevrolet equinox,like new,8,hybrid,23271,other,sedan,grey,,2019-12-10,93
+5739,2004,chevrolet silverado 1500,fair,4,electric,265878,other,van,black,,2019-07-26,42
+11254,2014,nissan altima,fair,3,electric,298375,manual,van,black,1,2019-08-09,27
+13052,2011,chevrolet equinox,salvage,8,hybrid,248085,automatic,SUV,grey,,2019-03-28,102
+10561,2004,jeep grand cherokee,salvage,3,diesel,117776,other,van,blue,1,2019-11-09,61
+10920,2010,toyota camry,fair,4,diesel,209533,automatic,van,red,1,2019-01-03,89
+13375,2009,toyota corolla,like new,3,electric,26328,other,van,red,,2019-08-26,103
+6800,2008,chevrolet equinox,like new,5,electric,287242,other,SUV,silver,,2019-09-01,96
+15832,2009,ram 1500,good,4,diesel,40623,automatic,coupe,blue,1,2019-02-11,70
+4898,2005,ram 1500,excellent,5,electric,284484,manual,sedan,silver,,2019-08-04,27
+9914,2004,honda cr-v,good,5,hybrid,204465,manual,coupe,white,,2019-10-07,95
+7656,2007,toyota corolla,salvage,6,gas,176228,manual,wagon,red,,2019-03-26,52
+23145,2016,nissan altima,like new,8,electric,14209,manual,coupe,silver,,2019-05-14,7
+2302,1997,chevrolet equinox,excellent,3,gas,246576,automatic,SUV,,,2019-06-29,7
+5225,1995,honda civic,salvage,3,gas,79892,automatic,truck,white,,2019-08-27,28
+21391,2013,toyota camry,salvage,4,diesel,13462,automatic,van,,,2019-07-12,117
+12451,2004,nissan altima,excellent,3,electric,63467,manual,sedan,blue,1,2019-12-05,55
+6112,2006,ford escape,fair,6,electric,241035,manual,van,red,1,2019-09-25,23
+9717,2003,chevrolet equinox,fair,3,hybrid,168980,automatic,coupe,,1,2019-05-05,58
+9371,2005,ram 1500,like new,5,gas,95336,other,SUV,white,1,2019-05-13,103
+3487,2002,ford focus,good,6,electric,,other,SUV,silver,,2019-09-09,92
+16577,2016,nissan altima,fair,5,hybrid,193472,manual,truck,black,,2019-08-06,45
+5581,1998,toyota corolla,salvage,8,hybrid,100969,automatic,SUV,silver,,2019-04-21,25
+8989,2002,ford f-150,salvage,4,hybrid,189205,other,SUV,grey,1,2019-10-01,91
+16768,2019,honda cr-v,excellent,4,gas,257361,manual,coupe,white,,2019-06-24,57
+19398,2013,ford escape,fair,4,diesel,28106,other,coupe,blue,1,2019-06-05,73
+15529,2009,chevrolet silverado 1500,good,4,hybrid,155898,other,sedan,black,,2019-11-09,8
+6160,2002,ford focus,excellent,6,diesel,91128,manual,van,silver,1,2019-07-29,1
+16745,2017,jeep grand cherokee,excellent,4,diesel,238043,other,SUV,silver,,2019-10-29,81
+9650,1999,ford focus,fair,3,gas,37439,manual,van,silver,1,2019-11-01,40
+18223,2017,toyota corolla,like new,5,gas,211030,automatic,SUV,grey,,2019-01-21,77
+19151,2013,honda cr-v,salvage,8,electric,10876,manual,SUV,red,,2019-10-23,35
+10524,2008,ram 1500,fair,5,hybrid,257805,other,coupe,,1,2019-02-23,86
+15321,2019,jeep grand cherokee,salvage,3,gas,288409,other,wagon,blue,,2019-05-10,41
+16291,2008,ford focus,fair,8,electric,28418,automatic,sedan,grey,,2019-01-27,57
+18350,2014,toyota camry,fair,6,gas,125460,other,SUV,blue,1,2019-01-08,71
+17112,2017,chevrolet silverado 1500,salvage,8,diesel,153019,automatic,truck,,,2019-05-05,61
+11187,2008,toyota corolla,salvage,8,electric,178192,automatic,coupe,red,,2019-01-02,106
+11312,2010,jeep grand cherokee,good,5,electric,180944,automatic,truck,grey,,2019-04-07,42
+14215,2010,ford f-150,good,5,hybrid,199874,automatic,coupe,white,,2019-11-30,102
+12346,2011,nissan altima,salvage,8,electric,239561,other,sedan,,,2019-02-08,20
+6187,2005,toyota camry,good,5,hybrid,279771,automatic,van,white,,2019-09-07,81
+15204,2008,ford f-150,like new,3,hybrid,51612,manual,coupe,black,,2019-06-03,89
+1710,2002,jeep grand cherokee,salvage,5,diesel,278484,manual,wagon,black,,2019-04-03,102
+4069,2002,honda civic,excellent,6,electric,241775,manual,wagon,silver,1,2019-08-27,103
+13558,2015,honda cr-v,excellent,6,diesel,222460,manual,wagon,silver,1,2019-06-04,109
+16700,2013,ram 1500,excellent,8,electric,155122,manual,SUV,red,,2019-01-05,36
+11698,2006,chevrolet equinox,good,6,gas,114821,other,van,white,1,2019-12-14,33
+8264,2004,honda civic,salvage,4,hybrid,231118,other,wagon,silver,1,2019-06-17,38
+7256,2000,toyota camry,fair,8,gas,134726,automatic,SUV,,,2019-06-01,104
+18603,2016,nissan altima,like new,4,electric,208358,other,truck,white,1,2019-01-08,51
+17969,2016,chevrolet equinox,excellent,5,electric,122590,other,truck,grey,1,2019-10-15,114
+17081,2008,jeep grand cherokee,fair,4,hybrid,61171,other,van,grey,,2019-02-19,15
+15599,2012,toyota corolla,fair,6,hybrid,219743,automatic,van,silver,,2019-08-01,20
+3691,2001,nissan altima,excellent,4,electric,232460,manual,SUV,white,1,2019-07-08,88
+16233,2009,nissan altima,good,6,diesel,48063,other,SUV,white,1,2019-11-02,82
+15861,2019,ford focus,good,8,diesel,290564,other,truck,,1,2019-03-17,100
+10280,2000,toyota corolla,like new,6,gas,57633,automatic,truck,white,,2019-01-08,17
+1230,1999,chevrolet silverado 1500,salvage,5,gas,220704,other,van,red,,2019-09-20,47
+6191,2004,toyota camry,fair,6,electric,240146,automatic,sedan,silver,,2019-09-03,8
+19569,2014,ford focus,fair,6,electric,77769,automatic,van,white,,2019-06-16,92
+13311,2015,honda cr-v,fair,6,electric,289058,other,sedan,silver,,2019-08-20,56
+10946,2008,jeep grand cherokee,excellent,4,hybrid,163852,automatic,wagon,white,,2019-02-04,61
+10016,2013,jeep grand cherokee,excellent,6,hybrid,294433,other,truck,silver,1,2019-07-30,16
+2128,1998,toyota corolla,good,4,electric,266030,other,wagon,red,,2019-10-12,45
+15577,2016,ram 1500,like new,3,hybrid,291891,manual,sedan,black,,2019-12-22,85
+1079,1999,jeep grand cherokee,fair,6,hybrid,296915,automatic,truck,silver,,2019-02-16,4
+18022,2018,toyota corolla,excellent,8,gas,170070,manual,coupe,grey,,2019-02-13,77
+7748,2008,chevrolet equinox,salvage,4,electric,254626,other,van,silver,,2019-06-26,15
+3765,1996,honda civic,like new,5,hybrid,115615,manual,sedan,white,,2019-01-04,8
+11887,2010,ram 1500,excellent,6,electric,225787,automatic,coupe,white,1,2019-12-09,72
+9058,2005,nissan altima,good,6,electric,225068,other,truck,white,,2019-08-02,82
+15019,2008,honda civic,excellent,6,gas,55502,other,wagon,black,1,2019-06-08,112
+20803,2019,honda civic,like new,4,diesel,183173,automatic,wagon,black,,2019-11-27,105
+24256,2019,toyota corolla,salvage,5,hybrid,39506,other,truck,black,,2019-10-24,73
+18543,2009,toyota camry,like new,5,electric,35801,manual,sedan,white,,2019-05-21,39
+13341,2006,ram 1500,excellent,8,electric,150511,other,van,black,1,2019-09-17,77
+8409,2005,nissan altima,excellent,6,diesel,249366,automatic,SUV,grey,1,2019-08-19,8
+8354,2009,toyota corolla,excellent,4,hybrid,230383,automatic,truck,white,1,2019-07-18,37
+13010,2012,honda civic,like new,4,gas,202670,other,van,black,1,2019-12-03,110
+12596,2006,nissan altima,good,5,gas,162650,other,van,blue,1,2019-02-13,91
+12541,2011,chevrolet silverado 1500,good,3,diesel,189702,automatic,sedan,silver,1,2019-04-20,24
+1987,1998,honda civic,good,6,diesel,266175,other,coupe,white,1,2019-11-13,44
+8046,2008,honda cr-v,good,6,diesel,190997,manual,coupe,,,2019-11-09,57
+5065,2001,honda civic,good,5,diesel,192854,manual,sedan,grey,,2019-07-15,37
+10406,2010,honda civic,like new,6,electric,194622,other,SUV,,,2019-09-22,92
+16161,2008,nissan altima,good,5,electric,48084,automatic,truck,black,,2019-01-14,120
+2136,1995,ford focus,fair,3,diesel,167082,other,coupe,blue,,2019-06-21,84
+20961,2014,ford focus,good,4,hybrid,2753,automatic,sedan,black,,2019-11-08,71
+9246,2008,ford escape,salvage,3,diesel,,other,SUV,silver,1,2019-09-13,116
+15740,2008,ford escape,salvage,5,gas,820,manual,coupe,white,1,2019-02-13,86
+14680,2015,ram 1500,excellent,4,hybrid,202837,automatic,sedan,silver,1,2019-07-02,3
+14437,2012,toyota camry,fair,8,gas,177496,manual,SUV,white,,2019-09-03,90
+10183,2001,ford focus,excellent,4,diesel,21970,manual,truck,,,2019-07-23,66
+24444,2019,jeep grand cherokee,like new,3,diesel,25063,manual,van,blue,,2019-07-24,56
+6026,2006,honda civic,salvage,4,hybrid,272250,manual,sedan,white,,2019-08-06,94
+9142,2005,nissan altima,salvage,5,electric,155000,manual,van,,1,2019-06-29,57
+8931,1996,ford f-150,good,6,electric,39343,automatic,SUV,white,,2019-09-20,47
+4264,2002,toyota camry,salvage,3,diesel,192061,other,truck,blue,,2019-08-19,87
+12909,2005,ford escape,excellent,4,hybrid,146113,manual,van,blue,,2019-04-06,4
+5331,2001,honda cr-v,excellent,4,hybrid,149724,other,truck,grey,1,2019-02-07,110
+500,1997,chevrolet equinox,good,6,hybrid,288356,other,SUV,white,1,2019-03-22,39
+9661,2001,toyota corolla,excellent,4,gas,72811,manual,coupe,grey,,2019-08-28,48
+17816,2018,chevrolet equinox,excellent,6,electric,250958,manual,van,red,,2019-10-22,53
+15062,2006,ford f-150,excellent,6,diesel,67284,manual,SUV,black,,2019-03-08,99
+9142,2005,chevrolet equinox,salvage,4,hybrid,118211,automatic,van,silver,,2019-05-26,67
+14197,2014,toyota corolla,like new,6,gas,279696,automatic,sedan,white,,2019-03-29,20
+18527,2015,chevrolet equinox,salvage,6,hybrid,138755,other,truck,blue,1,2019-08-02,74
+5841,2002,honda civic,like new,3,hybrid,212909,other,truck,blue,1,2019-09-05,54
+5030,1999,chevrolet silverado 1500,good,6,gas,194269,automatic,truck,blue,,2019-05-04,41
+14256,2014,honda civic,fair,4,electric,219223,manual,truck,blue,,2019-10-23,120
+9087,1995,ford focus,fair,5,electric,47211,manual,wagon,white,,2019-04-21,31
+3605,1998,chevrolet silverado 1500,like new,4,hybrid,225930,automatic,coupe,red,,2019-01-24,47
+9528,2009,toyota camry,fair,4,hybrid,288283,manual,wagon,silver,,2019-12-15,80
+22594,2019,ford escape,fair,6,diesel,75637,other,wagon,black,1,2019-03-12,5
+11189,2005,ford escape,salvage,4,electric,167001,other,wagon,silver,1,2019-06-03,79
+16218,2010,ford focus,salvage,5,diesel,8722,other,sedan,red,,2019-12-19,102
+16971,2010,ford f-150,salvage,6,gas,89397,automatic,sedan,blue,,2019-07-14,80
+9247,2005,ford f-150,good,5,diesel,219561,other,truck,grey,,2019-08-30,79
+11606,2010,nissan altima,like new,5,electric,275501,automatic,SUV,silver,1,2019-08-24,23
+15339,2012,honda cr-v,like new,4,hybrid,156499,manual,sedan,red,,2019-04-17,91
+17636,2016,ford focus,excellent,5,hybrid,284788,other,sedan,silver,,2019-06-26,51
+13249,2009,toyota corolla,salvage,8,diesel,134450,automatic,sedan,grey,,2019-10-15,120
+14110,2011,chevrolet equinox,good,6,gas,118316,other,SUV,blue,1,2019-07-31,13
+13027,2015,toyota corolla,good,4,gas,249403,automatic,coupe,,1,2019-01-31,83
+10570,2000,ford focus,excellent,8,gas,19052,manual,wagon,red,1,2019-04-06,64
+3359,1998,chevrolet silverado 1500,excellent,6,hybrid,175658,automatic,van,blue,,2019-03-10,114
+21857,2015,chevrolet silverado 1500,good,6,electric,134880,manual,wagon,silver,1,2019-06-22,95
+2130,,honda cr-v,like new,4,hybrid,210152,manual,wagon,grey,,2019-05-08,120
+19082,2013,ford focus,good,4,electric,5995,other,wagon,grey,,2019-05-01,89
+18624,2019,honda cr-v,salvage,4,hybrid,163042,manual,van,red,1,2019-04-23,29
+7554,2010,toyota camry,salvage,8,electric,281814,other,van,silver,,2019-05-07,28
+2173,1997,honda cr-v,excellent,6,diesel,295786,other,wagon,blue,1,2019-03-18,69
+2699,1997,ford f-150,salvage,5,electric,267583,other,truck,grey,,2019-03-09,59
+1269,1995,ford f-150,excellent,4,electric,207591,automatic,truck,blue,,2019-08-05,6
+8986,2000,jeep grand cherokee,fair,8,electric,71003,manual,sedan,grey,,2019-11-27,94
+15714,2016,chevrolet silverado 1500,excellent,3,gas,282748,manual,coupe,grey,1,2019-07-21,69
+17244,2018,ford focus,good,5,gas,285446,automatic,van,blue,,2019-04-28,106
+20587,2014,ram 1500,excellent,6,electric,8202,manual,SUV,red,1,2019-12-11,77
+11371,2001,nissan altima,salvage,4,hybrid,29592,automatic,truck,black,,2019-04-30,38
+14231,2016,honda cr-v,excellent,3,hybrid,273285,other,van,blue,,2019-03-31,76
+14934,2011,honda cr-v,good,6,diesel,167108,manual,van,black,,2019-06-03,20
+12760,2009,toyota camry,fair,6,hybrid,30211,automatic,wagon,grey,,2019-05-05,50
+9387,2001,toyota corolla,salvage,4,diesel,27020,manual,SUV,,1,2019-11-05,78
+9985,2005,ram 1500,good,4,electric,158957,automatic,wagon,silver,,2019-09-03,16
+19778,2019,honda cr-v,fair,5,gas,148404,other,coupe,,,2019-07-03,84
+10239,,toyota corolla,salvage,6,electric,106497,manual,SUV,black,,2019-03-16,95
+12008,2005,nissan altima,like new,5,electric,120596,other,van,grey,,2019-09-13,32
+12064,2010,chevrolet equinox,excellent,4,gas,241607,automatic,van,white,1,2019-09-08,70
+26525,2019,chevrolet silverado 1500,salvage,5,electric,3346,manual,sedan,red,1,2019-04-29,81
+13756,2015,ford focus,excellent,6,electric,253338,automatic,sedan,white,,2019-01-09,2
+16133,2011,jeep grand cherokee,excellent,4,hybrid,78065,manual,coupe,red,1,2019-05-10,68
+7978,2002,jeep grand cherokee,fair,3,electric,118414,automatic,van,white,,2019-11-29,110
+22882,2017,toyota camry,salvage,3,gas,89854,automatic,SUV,,,2019-11-27,56
+13528,2017,nissan altima,excellent,3,diesel,297158,other,SUV,,,2019-10-06,36
+16706,2017,chevrolet equinox,salvage,3,hybrid,208821,manual,van,black,1,2019-05-04,73
+17607,2017,toyota corolla,fair,3,hybrid,41118,automatic,van,silver,1,2019-02-08,30
+9563,2009,jeep grand cherokee,excellent,4,hybrid,257217,automatic,van,white,1,2019-08-10,49
+6024,1997,ford focus,fair,6,hybrid,140494,manual,sedan,black,1,2019-06-12,50
+7903,1997,nissan altima,salvage,5,gas,,other,wagon,,,2019-09-20,72
+9986,2005,toyota corolla,salvage,8,diesel,201975,other,coupe,black,1,2019-10-14,116
+6190,1999,ford focus,fair,4,gas,140990,manual,truck,black,1,2019-02-02,19
+14979,2018,nissan altima,fair,3,hybrid,259943,manual,van,red,1,2019-07-22,1
+5025,1999,jeep grand cherokee,like new,4,hybrid,157514,other,van,grey,,2019-04-13,89
+13629,2010,honda civic,salvage,8,gas,127100,other,coupe,grey,1,2019-10-16,15
+5885,2001,jeep grand cherokee,fair,8,diesel,229876,other,truck,black,1,2019-02-05,89
+10102,2003,ram 1500,fair,3,gas,80815,manual,van,,,2019-09-03,77
+15480,2012,ford f-150,salvage,3,electric,44555,manual,coupe,white,,2019-12-07,85
+5851,1995,honda cr-v,salvage,6,diesel,51698,manual,sedan,blue,,2019-10-22,89
+6744,1998,nissan altima,like new,5,hybrid,154891,manual,SUV,red,,2019-03-01,11
+10929,2010,ford f-150,like new,6,gas,182609,other,SUV,grey,,2019-06-03,9
+4524,2002,jeep grand cherokee,good,4,diesel,270529,other,van,blue,,2019-10-14,43
+15195,2007,ram 1500,excellent,5,gas,15305,other,SUV,silver,,2019-01-03,50
+8302,2005,toyota corolla,fair,5,electric,103323,other,sedan,silver,1,2019-09-08,86
+5963,2006,nissan altima,excellent,6,diesel,240050,manual,sedan,black,,2019-11-11,118
+11128,2006,honda cr-v,salvage,6,diesel,74112,other,SUV,blue,1,2019-03-12,77
+12703,2004,jeep grand cherokee,salvage,6,electric,73555,manual,van,blue,1,2019-01-05,46
+12278,2008,ford f-150,like new,5,diesel,232706,other,truck,black,1,2019-01-16,73
+14742,2019,nissan altima,salvage,5,gas,239768,other,coupe,red,,2019-10-21,15
+3978,2001,honda cr-v,like new,3,hybrid,222903,automatic,coupe,,,2019-05-07,84
+6485,1998,honda civic,good,6,diesel,124227,automatic,wagon,silver,1,2019-11-09,91
+17355,2012,ford escape,excellent,6,diesel,147369,manual,sedan,silver,,2019-12-27,42
+19264,2015,honda cr-v,good,4,hybrid,66525,other,coupe,blue,,2019-05-07,107
+15349,2009,ram 1500,like new,6,electric,39592,manual,truck,red,,2019-02-17,99
+5836,1995,jeep grand cherokee,good,6,electric,48833,manual,truck,,,2019-02-02,109
+6838,2004,ford f-150,excellent,6,gas,177080,other,coupe,white,,2019-09-06,73
+7064,1998,ford focus,excellent,5,hybrid,82828,manual,sedan,silver,1,2019-03-09,89
+19616,2016,toyota camry,excellent,3,gas,86782,automatic,coupe,white,1,2019-12-25,40
+5127,1999,honda civic,fair,3,gas,118589,automatic,coupe,white,,2019-03-03,105
+21791,2018,honda civic,good,3,gas,53701,other,wagon,white,1,2019-06-03,113
+15985,2014,chevrolet silverado 1500,excellent,6,gas,86044,automatic,sedan,red,,2019-07-30,118
+18442,2018,chevrolet silverado 1500,salvage,4,hybrid,201343,other,sedan,,,2019-03-13,41
+18022,2016,chevrolet silverado 1500,fair,4,electric,158151,automatic,SUV,blue,,2019-11-27,38
+22353,2015,toyota corolla,fair,6,hybrid,37230,other,van,black,,2019-07-04,2
+19360,2019,jeep grand cherokee,salvage,3,hybrid,246947,other,van,red,,2019-05-15,2
+17039,2019,ford focus,excellent,5,hybrid,217806,automatic,wagon,black,,2019-11-24,11
+939,1999,ram 1500,good,8,gas,281222,automatic,sedan,blue,,2019-11-26,88
+4235,1998,toyota camry,excellent,6,diesel,237697,other,sedan,black,,2019-12-08,40
+9952,2010,ram 1500,excellent,6,gas,181773,manual,coupe,silver,1,2019-03-06,48
+17318,2011,nissan altima,excellent,4,electric,33487,other,SUV,silver,,2019-11-18,74
+7452,,ford f-150,good,6,gas,133754,manual,truck,blue,,2019-09-18,30
+4340,1999,nissan altima,good,8,electric,93827,other,truck,silver,1,2020-01-01,103
+500,1997,toyota camry,fair,3,hybrid,299649,manual,truck,white,1,2019-09-22,103
+13486,2012,chevrolet silverado 1500,fair,3,hybrid,239466,other,coupe,,1,2019-10-16,38
+21019,,chevrolet equinox,excellent,8,hybrid,102457,automatic,van,blue,1,2019-07-29,1
+16888,2018,honda civic,like new,3,gas,161224,automatic,SUV,,1,2019-08-03,31
+11763,2011,toyota camry,salvage,6,gas,216560,manual,van,black,1,2019-09-16,13
+6433,2002,nissan altima,fair,4,hybrid,152922,automatic,sedan,black,,2019-07-21,119
+9089,1999,honda cr-v,like new,5,electric,57133,manual,sedan,white,1,2019-10-02,16
+6960,2000,honda civic,excellent,8,diesel,159496,manual,coupe,red,,2019-01-21,78
+3207,1996,toyota camry,fair,3,gas,156678,automatic,sedan,white,,2019-08-20,110
+9281,1996,toyota camry,salvage,4,hybrid,116543,automatic,sedan,white,1,2019-07-10,52
+4965,2001,honda civic,salvage,8,electric,232485,other,coupe,blue,,2019-03-04,43
+866,1995,honda cr-v,good,6,gas,200660,other,wagon,red,,2019-04-20,46
+4653,2002,ford escape,good,5,gas,154720,manual,van,silver,1,2019-07-16,36
+9457,2010,honda civic,excellent,8,hybrid,285484,other,SUV,white,,2019-10-17,117
+24205,2019,chevrolet equinox,good,6,hybrid,147289,other,van,white,1,2019-04-30,75
+22517,2019,honda civic,good,6,diesel,115034,other,truck,,,2019-07-18,103
+18265,2018,honda cr-v,salvage,6,hybrid,188105,automatic,coupe,white,1,2019-10-16,73
+7832,1997,toyota corolla,good,4,diesel,29448,manual,van,black,,2019-09-27,3
+15538,2005,nissan altima,fair,4,gas,31224,manual,truck,silver,,2019-09-27,109
+8096,1999,honda civic,salvage,6,hybrid,82577,automatic,van,red,,2019-11-24,102
+4248,2000,toyota corolla,excellent,4,diesel,198382,other,truck,,1,2019-12-26,1
+19472,2014,chevrolet silverado 1500,like new,6,hybrid,115812,automatic,van,white,,2019-09-12,120
+16507,2017,ford f-150,fair,4,electric,176029,other,coupe,black,,2019-05-12,45
+9232,2008,toyota corolla,good,5,diesel,258516,manual,sedan,,1,2019-02-21,49
+4719,1996,toyota camry,like new,3,electric,154617,other,sedan,blue,1,2019-07-12,22
+19052,2015,chevrolet silverado 1500,fair,6,hybrid,86506,other,truck,silver,,2019-01-28,21
+12751,,chevrolet equinox,salvage,8,electric,50287,automatic,sedan,white,,2019-07-04,7
+9612,2001,jeep grand cherokee,fair,6,electric,89565,other,truck,white,1,2019-08-31,11
+11843,2015,chevrolet silverado 1500,like new,5,gas,285278,automatic,van,grey,1,2019-01-23,58
+9190,1998,ford escape,excellent,6,electric,44935,other,coupe,red,1,2019-07-31,70
+13745,2016,ford escape,salvage,4,diesel,248944,automatic,coupe,black,1,2020-01-01,116
+7182,2000,chevrolet silverado 1500,good,8,hybrid,111091,manual,van,,1,2019-08-05,6
+6380,1997,ram 1500,salvage,4,electric,,automatic,coupe,black,,2019-08-23,67
+2364,1999,ford focus,salvage,6,hybrid,297058,manual,truck,blue,,2019-02-24,13
+12335,2015,ford f-150,fair,4,hybrid,254586,other,SUV,white,1,2019-11-13,19
+15383,2018,ford focus,fair,4,gas,249151,automatic,SUV,silver,,2019-06-22,3
+16829,2018,jeep grand cherokee,fair,6,hybrid,232317,automatic,wagon,,,2019-02-15,83
+8663,2000,toyota corolla,excellent,4,diesel,34402,automatic,SUV,,,2019-03-11,52
+4749,1996,chevrolet equinox,excellent,4,gas,130804,automatic,truck,blue,,2019-07-08,36
+13883,2014,ford focus,excellent,4,hybrid,233886,automatic,coupe,white,,2019-10-28,61
+8979,2000,chevrolet equinox,excellent,6,electric,112364,automatic,van,black,1,2019-07-29,84
+18973,2014,ford focus,fair,4,electric,4437,manual,coupe,silver,1,2019-06-06,104
+3774,2001,nissan altima,salvage,6,hybrid,244684,manual,van,white,1,2019-01-04,14
+18718,2010,ram 1500,like new,4,diesel,33469,automatic,wagon,,,2019-06-16,82
+12429,2002,honda cr-v,like new,6,hybrid,,manual,coupe,blue,,2019-12-15,41
+20506,2018,chevrolet equinox,salvage,6,electric,18517,other,truck,red,,2019-04-08,74
+12781,2004,ford escape,good,4,hybrid,89121,other,sedan,black,1,2019-03-07,61
+9104,2006,honda cr-v,excellent,6,electric,117088,automatic,van,red,,2019-06-19,54
+18008,2013,honda civic,good,3,diesel,37337,manual,coupe,red,,2019-09-29,49
+15219,2009,honda civic,like new,4,gas,75090,automatic,coupe,silver,,2019-02-11,24
+8266,2001,jeep grand cherokee,fair,8,electric,88397,manual,sedan,white,,2019-03-08,12
+15857,2012,ford f-150,excellent,6,diesel,104550,automatic,van,silver,1,2019-06-14,2
+13190,2004,ram 1500,salvage,4,hybrid,67596,manual,van,black,1,2019-01-24,106
+7858,,honda civic,good,4,gas,256994,other,wagon,black,,2019-07-26,22
+3191,1998,ford f-150,excellent,5,gas,192199,automatic,van,white,,2019-10-01,33
+7032,2008,chevrolet equinox,excellent,5,hybrid,232948,manual,van,white,1,2019-08-31,33
+13760,2016,ford focus,excellent,4,gas,272791,manual,SUV,red,,2019-02-23,116
+9594,2001,ford f-150,salvage,8,electric,137884,automatic,van,blue,,2019-07-03,26
+13050,2005,ford escape,excellent,3,gas,122948,manual,van,black,,2019-09-10,86
+12683,2009,nissan altima,like new,4,electric,155200,other,sedan,white,,2019-03-31,13
+24395,2019,ram 1500,excellent,6,hybrid,24059,manual,SUV,white,1,2019-08-13,46
+9654,2007,chevrolet equinox,good,5,gas,209846,automatic,van,grey,1,2019-12-20,50
+8318,1996,nissan altima,salvage,5,gas,83569,other,van,black,,2019-08-13,87
+12325,2010,ford f-150,salvage,3,diesel,255916,other,truck,red,,2019-01-24,57
+14998,2011,ford escape,salvage,5,gas,49934,automatic,van,black,1,2019-11-25,87
+12308,2011,nissan altima,like new,8,gas,246042,other,SUV,red,,2019-02-08,22
